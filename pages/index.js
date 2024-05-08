@@ -1,10 +1,7 @@
 
 import { Inter } from "next/font/google";
-
 import Success_popup from "@/components/Success_popup";
-
 const inter = Inter({ subsets: ["latin"] });
-
 export default function Home() {
     return (
         <div>
