@@ -6,7 +6,7 @@ const Credit_popup = () => {
     <Success_popup 
       title="Credit Note Created"
       description="We received your credit note request and it is under review"
-      button="Okey"
+      // button="Okey"
       name="successpopup"
     />
   )
